@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+requests
+aiohttp
+pytube
+youtube_dl
